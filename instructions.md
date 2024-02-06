@@ -19,5 +19,6 @@
 
 ## Как добавлять картинки в Markdown
 Лого Markdown
+
 ![logo](md.png)
 
