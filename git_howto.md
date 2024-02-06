@@ -20,6 +20,10 @@ git log
 ```sh
 git log --oneline
 ```
+Посмотреть лог в виде графа
+```sh
+git log --graph
+```
 Отображение всех веток
 ```sh
 git branch
@@ -32,6 +36,7 @@ git branch <branch_name>
 ```sh
 git checkout <branch_name>
 ```
-
-
-
+Удаление ветки
+```sh
+git branch -d <branch_name>
+```
