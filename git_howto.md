@@ -20,13 +20,18 @@ git log
 ```sh
 git log --oneline
 ```
-Перемещение по веткам
-```sh
-git checkout branch_name
-```
 Отображение всех веток
 ```sh
 git branch
 ```
+Создание новой ветки
+```sh
+git branch <branch_name>
+``` 
+Перемещение по веткам
+```sh
+git checkout <branch_name>
+```
+
 
 
