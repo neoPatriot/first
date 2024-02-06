@@ -20,6 +20,10 @@ git log
 ```sh
 git log --oneline
 ```
+Посмотреть лог в виде графа
+```sh
+git log --graph
+```
 Отображение всех веток
 ```sh
 git branch
